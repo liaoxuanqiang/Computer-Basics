@@ -11,6 +11,7 @@
 * [1.3 计算机的组成与工作原理](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.3-ji-suan-ji-de-zu-cheng-yu-gong-zuo-yuan-li/README.md)
   * [1.3.1 冯·诺依曼体系结构](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.3-ji-suan-ji-de-zu-cheng-yu-gong-zuo-yuan-li/1.3.1-feng-nuo-yi-man-ti-xi-jie-gou.md)
   * [1.3.2 五大基本部件](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.3-ji-suan-ji-de-zu-cheng-yu-gong-zuo-yuan-li/1.3.2-wu-da-ji-ben-bu-jian.md)
+* [1.3.3 计算机的工作原理](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.3.3-ji-suan-ji-de-gong-zuo-yuan-li.md)
 * [1.4 PC的组件](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.4-pc-de-zu-jian.md)
 
 ## 第2章 计算机软件于信息表示
