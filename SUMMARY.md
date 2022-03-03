@@ -6,7 +6,7 @@
   * [1.1.1 计算机发展历史](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.1-ji-suan-ji-gai-shu/1.1.1-ji-suan-ji-fa-zhan-li-shi.md)
   * [1.1.2 计算机分类](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.1-ji-suan-ji-gai-shu/1.1.2-ji-suan-ji-fen-lei.md)
 * [1.2 微电子技术](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.2-wei-dian-zi-ji-shu/README.md)
-  * [1.2.1 集成电路（Integrated Circuit，IC）](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.2-wei-dian-zi-ji-shu/1.2.1-ji-cheng-dian-lu-integrated-circuitic.md)
+  * [1.2.1 集成电路](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.2-wei-dian-zi-ji-shu/1.2.1-ji-cheng-dian-lu.md)
   * [1.2.2 摩尔定律](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.2-wei-dian-zi-ji-shu/1.2.2-mo-er-ding-lv.md)
 * [1.3 计算机的组成与工作原理](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.3-ji-suan-ji-de-zu-cheng-yu-gong-zuo-yuan-li.md)
 * [1.4 PC的组件](di-1-zhang-ji-suan-ji-zu-cheng-ji-gong-zuo-yuan-li/1.4-pc-de-zu-jian.md)
