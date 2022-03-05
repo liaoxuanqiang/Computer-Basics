@@ -20,8 +20,9 @@
 
 ## 第2章 计算机软件于信息表示
 
-* [2.1 软件概述](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.1-ruan-jian-gai-shu.md)
-* [2.1.1 程序与软件](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.1.1-cheng-xu-yu-ruan-jian.md)
+* [2.1 软件概述](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.1-ruan-jian-gai-shu/README.md)
+  * [2.1.1 程序与软件](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.1-ruan-jian-gai-shu/2.1.1-cheng-xu-yu-ruan-jian.md)
+* [2.1.2 软件的分类](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.1.2-ruan-jian-de-fen-lei.md)
 * [2.2 操作系统](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.2-cao-zuo-xi-tong.md)
 * [2.3 信息与信息表示](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3-xin-xi-yu-xin-xi-biao-shi.md)
 
