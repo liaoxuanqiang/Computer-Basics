@@ -29,7 +29,9 @@
   * [2.2.1 操作系统概述](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.2-cao-zuo-xi-tong/2.2.1-cao-zuo-xi-tong-gai-shu.md)
   * [2.2.2 操作系统的功能](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.2-cao-zuo-xi-tong/2.2.2-cao-zuo-xi-tong-de-gong-neng.md)
   * [2.2.3 常见操作系统](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.2-cao-zuo-xi-tong/2.2.3-chang-jian-cao-zuo-xi-tong.md)
-* [2.3 信息与信息表示](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3-xin-xi-yu-xin-xi-biao-shi.md)
+* [2.3 信息与信息表示](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3-xin-xi-yu-xin-xi-biao-shi/README.md)
+  * [2.3.1 信息](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3-xin-xi-yu-xin-xi-biao-shi/2.3.1-xin-xi.md)
+* [2.3.2 数制与数制转换](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3.2-shu-zhi-yu-shu-zhi-zhuan-huan.md)
 
 ## 第3章 计算机网络与信息安全
 
