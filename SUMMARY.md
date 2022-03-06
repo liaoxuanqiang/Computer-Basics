@@ -31,7 +31,11 @@
   * [2.2.3 常见操作系统](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.2-cao-zuo-xi-tong/2.2.3-chang-jian-cao-zuo-xi-tong.md)
 * [2.3 信息与信息表示](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3-xin-xi-yu-xin-xi-biao-shi/README.md)
   * [2.3.1 信息](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3-xin-xi-yu-xin-xi-biao-shi/2.3.1-xin-xi.md)
-* [2.3.2 数制与数制转换](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3.2-shu-zhi-yu-shu-zhi-zhuan-huan.md)
+  * [2.3.2 数制与数制转换](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3-xin-xi-yu-xin-xi-biao-shi/2.3.2-shu-zhi-yu-shu-zhi-zhuan-huan.md)
+  * [2.3.3 数值的编码](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3-xin-xi-yu-xin-xi-biao-shi/2.3.3-shu-zhi-de-bian-ma.md)
+  * [2.3.4 文本的编码](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3-xin-xi-yu-xin-xi-biao-shi/2.3.4-wen-ben-de-bian-ma.md)
+  * [2.3.5 图像的编码](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3-xin-xi-yu-xin-xi-biao-shi/2.3.5-tu-xiang-de-bian-ma.md)
+  * [2.3.6 其他信息的编码](di-2-zhang-ji-suan-ji-ruan-jian-yu-xin-xi-biao-shi/2.3-xin-xi-yu-xin-xi-biao-shi/2.3.6-qi-ta-xin-xi-de-bian-ma.md)
 
 ## 第3章 计算机网络与信息安全
 
