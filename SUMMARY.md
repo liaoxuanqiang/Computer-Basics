@@ -39,8 +39,15 @@
 
 ## 第3章 计算机网络与信息安全
 
-* [3.1 通信技术](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.1-tong-xin-ji-shu.md)
-* [3.2 计算机网络基础](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.2-ji-suan-ji-wang-luo-ji-chu.md)
+* [3.1 通信技术](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.1-tong-xin-ji-shu/README.md)
+  * [3.1.1 通信系统](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.1-tong-xin-ji-shu/3.1.1-tong-xin-xi-tong.md)
+  * [3.1.2 网络传输介质](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.1-tong-xin-ji-shu/3.1.2-wang-luo-chuan-shu-jie-zhi.md)
+  * [3.1.3 网络互联设备](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.1-tong-xin-ji-shu/3.1.3-wang-luo-hu-lian-she-bei.md)
+  * [3.1.4 数据交换技术](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.1-tong-xin-ji-shu/3.1.4-shu-ju-jiao-huan-ji-shu.md)
+  * [3.1.5 多路复用技术](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.1-tong-xin-ji-shu/3.1.5-duo-lu-fu-yong-ji-shu.md)
+* [3.2 计算机网络基础](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.2-ji-suan-ji-wang-luo-ji-chu/README.md)
+  * [3.2.1 计算机网络概述](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.2-ji-suan-ji-wang-luo-ji-chu/3.2.1-ji-suan-ji-wang-luo-gai-shu.md)
+  * [3.2.2 计算机网络的组成](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.2-ji-suan-ji-wang-luo-ji-chu/3.2.2-ji-suan-ji-wang-luo-de-zu-cheng.md)
 * [3.4 Internet](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.4-internet.md)
 * [3.5 信息安全](di-3-zhang-ji-suan-ji-wang-luo-yu-xin-xi-an-quan/3.5-xin-xi-an-quan.md)
 
